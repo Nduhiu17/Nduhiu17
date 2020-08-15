@@ -9,6 +9,9 @@ I enjoy learning as much as I enjoy teaching, I think both are equally fulfillin
 
 I spend most of my days coding and contributong to discussions in tech communitites, if I am not doing that, I am out meeting friends and family.
 
+## 🌱WEBSITE:
+See more about me  [HERE](https://nduhiu.co.ke/).
+
 ## 🌱 I’m currently learning:
 
 - React Native
