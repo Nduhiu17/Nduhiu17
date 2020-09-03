@@ -35,9 +35,10 @@ See more about me [HERE](https://nduhiu.co.ke/).
 
 My middle name means happiness
 
-- My hobbie is playing martial arts!
-
+- My hobbie is playing martial arts! 
 ## Tools and Technologies
+<code><img height="50" src=" https://www.vectorlogo.zone/util/preview.html?image=/logos/graphql/graphql-icon.svg
+"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
