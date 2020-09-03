@@ -38,22 +38,6 @@ My middle name means happiness
 - My hobbie is playing martial arts!
 
 ## Tools and Technologies
-
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/graphql/graphql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mochajs/mochajs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/chaijs/chaijs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
