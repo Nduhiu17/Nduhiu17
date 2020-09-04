@@ -1,7 +1,5 @@
 # Hello, I'm Antony! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello
-
 I am a software engineer based in Nairobi, Kenya.
 
 Passion about problem-solving is what got me into code, being able to come up with creative solutions is what makes me stay.
