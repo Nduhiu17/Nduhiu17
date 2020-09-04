@@ -1,32 +1,32 @@
 # Hello, I'm Antony! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Hello
+
 I am a software engineer based in Nairobi, Kenya.
 
-Passion about problem solving is what got me into code, being able to come up with creative solutions is what makes me stay.
+Passion about problem-solving is what got me into code, being able to come up with creative solutions is what makes me stay.
 
 I enjoy learning as much as I enjoy teaching, I think both are equally fulfilling activities to me, and when I look for a job, continuous learning is a priority.
 
-I spend most of my days coding and contributong to discussions in tech communitites, if I am not doing that, I am out meeting friends and family.
+I am good at React JS, Python Flask, Spring boot, Modern Javascript, Java, Python, HTML5, CSS3, REST, Graphql and I constantly work on improving my skills and learning new Technologies
+
+I spend most of my time coding and contributing to discussions in tech communities, if I am not doing that, I am out meeting friends and family.
 
 ## 🌱WEBSITE:
 
 See more about me [HERE](https://nduhiu.co.ke/).
 
-## 🌱 I’m currently learning:
 
-- React Native
-- Graphql
-- Data structures
+## 🤔 Currently learning:
 
-## 🤔 I’m looking for help with:
-
-- React
 - Graphql
 - Node
 
 ## 💬 Ask me about:
 
-- Software Development
+- ReactJS
+- Spring boot
+- Flask
 - Software Quality Assurance
 - Task Automation
 - Community Development
