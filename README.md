@@ -1,12 +1,14 @@
 # Hello, I'm Antony! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer based in Nairobi, Kenya.
+I am a fullstack engineer based in Nairobi, Kenya.
 
 Passion about problem-solving is what got me into code, being able to come up with creative solutions is what makes me stay.
 
-I enjoy learning as much as I enjoy teaching, I think both are equally fulfilling activities to me, and when I look for a job, continuous learning is a priority.
+I have over six years of experience building scalable, fault torelant microservices and user friendly response UIs.
 
-I am good at React JS, Python Flask, Spring boot, Modern Javascript, Java, Python, HTML5, CSS3, REST, Graphql and I constantly work on improving my skills and learning new Technologies
+I enjoy learning as much as I enjoy teaching, I think both are equally fulfilling activities to me.I am a Life Long Leaner, always keeping meself updated with the latest technologies.
+
+I am good in Javascript, Golang, React, Python, HTML, and CSS.
 
 I spend most of my time coding and contributing to discussions in tech communities, if I am not doing that, I am out meeting friends and family.
 
@@ -17,23 +19,22 @@ See more about me [HERE](https://nduhiu.co.ke/).
 
 ## 🤔 Currently learning:
 
-- Graphql
-- Node
+- System Architecture.
 
 ## 💬 Ask me about:
 
 - ReactJS
-- Spring boot
-- Flask
-- Software Quality Assurance
-- Task Automation
-- Community Development
+- Golang
+- Javascript
+- Micro services
+- Intersystems caching
+- Asynchronous messaging systems
 
 ## ⚡ Fun fact:
 
 My middle name means happiness
 
-- My hobbie is playing martial arts! 
+- On my free time, I like riding my bike around my hilly area! 
 ## Tools and Technologies
 <code><img height="50" src=" https://www.vectorlogo.zone/util/preview.html?image=/logos/graphql/graphql-icon.svg
 "></code>
