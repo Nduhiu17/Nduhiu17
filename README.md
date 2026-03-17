@@ -69,7 +69,9 @@ See my full project gallery and deep-dives [HERE](/).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nduhiu17&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nduhiu17&layout=compact&theme=dark)
+<!-- ### Most Used Languages -->
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nduhiu17&layout=compact&theme=dark&hide=html,css) -->
 
 ## 📫 Let's Connect
 
