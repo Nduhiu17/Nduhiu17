@@ -1,73 +1,76 @@
-# Hello, I'm Antony! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Antony Nduhiu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a fullstack engineer based in Nairobi, Kenya.
+## Senior Software Engineer | Fintech & Cloud-Native Architect
 
-Passion about problem-solving is what got me into code, being able to come up with creative solutions is what makes me stay.
+I am a strategic and results-driven Senior Software Engineer based in Nairobi, Kenya, with over 8 years of experience in architecting scalable financial solutions and high-performance microservices.
 
-I have over six years of experience building scalable, fault torelant microservices and user friendly response UIs.
+My expertise lies at the intersection of robust technical execution and business-critical financial operations. I have a proven track record of:
 
-I enjoy learning as much as I enjoy teaching, I think both are equally fulfilling activities to me.I am a Life Long Leaner, always keeping meself updated with the latest technologies.
+- **Building End-to-End Fintech Ecosystems:** Designed and scaled Loan Management Systems and integrated complex regulatory frameworks like KRA eTIMS.
+- **Performance Engineering:** Optimized data synchronization by 99% using Golang concurrency and RabbitMQ.
+- **Cloud Leadership:** Managed large-scale migrations and infrastructure orchestration using AWS, GCP, and Kubernetes.
 
-I am good in Javascript, Golang, React, Python, HTML, and CSS.
+I am passionate about driving financial inclusion in Africa through code. When I'm not architecting systems, I'm mentoring developers or exploring the latest in distributed systems.
 
-I spend most of my time coding and contributing to discussions in tech communities, if I am not doing that, I am out meeting friends and family.
+---
 
-## 🌱WEBSITE:
+## 🚀 Key Highlights
 
-See more about me [HERE](https://nduhiu.co.ke/).
+- **Twiga Foods:** Spearheaded Fintech API development and regulatory compliance integrations.
+- **TextChat (USA):** Engineered real-time messaging engines supporting global concurrent connections.
+- **Scalability:** Successfully served over 30,000+ active users via partner-integrated Spring Boot APIs.
 
+---
 
-## 🤔 Currently learning:
+## 🌱 Portfolio & Website
 
-- System Architecture.
+See my full project gallery and deep-dives [HERE](/).
 
-## 💬 Ask me about:
+---
 
-- ReactJS
-- Golang
-- Javascript
-- Micro services
-- Intersystems caching
-- Asynchronous messaging systems
+## 💬 Ask me about
 
-## ⚡ Fun fact:
+- **Fintech:** Loan Management Systems, Payment Integrations, eTIMS
+- **Backend:** Java (Spring Boot, Quarkus), Golang, NestJS
+- **Architecture:** Event-Driven Design, Microservices, Redis Caching
+- **DevOps:** Kubernetes, Terraform, and CI/CD automation
 
-My middle name means happiness
+---
 
-- On my free time, I like riding my bike around my hilly area! 
-## Tools and Technologies
-<code><img height="50" src=" https://www.vectorlogo.zone/util/preview.html?image=/logos/graphql/graphql-icon.svg
-"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="50" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg"></code>
+## ⚡ Fun Facts
 
-![Antony's stats](https://github-readme-stats.vercel.app/api?username=nduhiu17&show_icons=true)
+- My middle name means Happiness
+- In my free time, you'll find me cycling through hilly terrains or on nature walks
 
-# 📫 How to reach me:
+---
 
-[gmail](nduhiu254@gmail.com)
+### Languages & Frameworks
 
-[LinkedIn](https://www.linkedin.com/in/antony-nduhiu-1519576b/)
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+### Infrastructure & Databases
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
+
+---
+
+## 📈 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nduhiu17&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nduhiu17&layout=compact&theme=dark)
+
+## 📫 Let's Connect
+
+📧 **Email:** [nduhiu254@gmail.com](mailto:nduhiu254@gmail.com)
